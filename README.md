@@ -1,0 +1,2 @@
+# philosophers
+threads and forks
