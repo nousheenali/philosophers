@@ -1,7 +1,7 @@
 # Philosophers
 This project helps understand process synchronisation and resource sharing.
 
-The Dining Philosopher Problem states that N philosophers seated around a circular table with one fork between each pair of philosophers. A philosopher may eat if he can pick up the two forks adjacent to him. The philosophers alternatively eat, think, or sleep. When a philosopher has finished eating, they put their forks back on the table and start sleeping. Once awake, they start thinking again. The simulation stops when a philosopher dies of starvation.
+The Dining Philosopher Problem states that N philosophers seated around a circular table with one fork between each pair of philosophers. The philosophers alternatively eat, think, or sleep. A philosopher may eat if he can pick up the two forks adjacent to him. When a philosopher has finished eating, they put their forks back on the table and start sleeping. Once awake, they start thinking again. The simulation stops when a philosopher dies of starvation.
 
 ![Unknown](https://user-images.githubusercontent.com/66158938/200158848-f1ae3e0b-f647-48a6-8a7d-2ded08f9211b.jpeg)
 
