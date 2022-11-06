@@ -33,3 +33,6 @@ Use semaphores for process synchronization and resource sharing.
 To run the program:
 
 ./philo_bonus/philo_bonus 4 410 200 200 5
+
+
+<img width="63" alt="image" src="https://user-images.githubusercontent.com/66158938/200159277-c11eb137-a4ac-4ab9-a13d-58845474e39c.png">
